@@ -100,17 +100,14 @@ Explicação
 Assim os dados ficam com fundo cinza e indica que é um codigo
 ```
 
-> :warning: Algum tipo de advertencia
-
-
-## Sakefile Guidelines 🎨
+## :clipboard: Guidelines 
 
 ### Subtitulo sobre os guidelines
 
 - Frase 1
 - Frase 2
 
-## License
+## :warning: License
 
 ```
 MIT License
