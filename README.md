@@ -31,7 +31,7 @@ Dados do release - Frase 1
 
 Dados do release - Frase 2
 
-## EMOTICON  - O que 
+## :bulb: What 
 
 - Frase 1
 - Frase 2
@@ -40,35 +40,35 @@ Dados do release - Frase 2
 
 Frase Final
 
-## EMOTICON - Porque 
+## :loudspeaker: Porque 
 
 -Frase 1
 
-## EMOTICON - Onde 
+## :office: Where 
 
 -Frase 1
 
-## EMOTICON - Quem 
+## :person_with_blond_hair: Who 
 
 -Frase 1
 
-## EMOTICON - Quando
+## :date:  When
 
 -Frase 1
 
-## EMOTICON - Como 
+## :nut_and_bolt:How 
 
 -Frase 1
 
-## EMOTICON - Quanto custa 
+## :dollar: How much 
 
 -Frase 1
 
-## Installation 🥑
+## :computer: Installation 
 
 Sobre Instalação
 
-## Configurações ⚒
+## :wrench: Configurações 
 
 -Frase 1
 
