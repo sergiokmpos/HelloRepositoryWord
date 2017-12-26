@@ -1,4 +1,4 @@
-# TITULO - Titulo do Projeto :innocent:
+# :pencil2: TITULO - Titulo do Projeto 
 
 <img width="900" src="https://github.com/sergiokmpos/HelloRepositoryWord/blob/master/Banner.png"/>
 
@@ -25,7 +25,7 @@
 
 Expliacação em uma frase do que é  o projeto. Geralmente com um Link [Link](https://en.wikipedia.org/wiki/Makefile) 
 
-## EMOTICON  - Titulo da versão 1.0.0 
+## :books:  - Titulo da versão 1.0.0 
 
 Dados do release - Frase 1
 
